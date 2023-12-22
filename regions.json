@@ -1,0 +1,19 @@
+{
+    "regions": [
+      {
+        "name": "Ice",
+        "description": "dunno",
+        "townMaster": "Kaalli",
+        "stories": ["The Eternal Winter", "The Frozen Castle"],
+        "coordinates": {"x": 100, "y": 50}
+      },
+      {
+        "name": "Desert",
+        "description": "dunno",
+        "townMaster": "Palli",
+        "stories": ["story 1", "story 2"],
+        "coordinates": {"x": 300, "y": 250}
+      }
+    ]
+  }
+  
